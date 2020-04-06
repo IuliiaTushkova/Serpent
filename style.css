@@ -1,0 +1,51 @@
+body {
+	background-color: #ddd;
+}
+
+h1{
+	font-color:#FFF; 
+	font-size: 45px;
+	text-align: center;
+	padding: 20px;
+
+}
+p{
+
+font-color: #FFF;
+font-size: 25px;
+text-align: center;
+padding: 20px;
+}
+p span {
+	font-weight: bold;
+	text-decoration-line: underline; 
+
+}
+#button-container button {
+	display: inline-block;
+	margin-left: 400px;
+	text-align: center;
+	font-size: 30px;
+	background-color: #6495ED;
+	width: 150px;
+
+}
+
+#button-container button:hover{
+	 
+	font-size: 40px;
+	
+}
+
+#banner-message{
+	width: 50%; 
+	height:70%;
+	display: block;
+	align-self: center;
+	background-color: rgba(100, 100, 100, 0.7);
+	position: absolute;
+	margin-left: 450px;
+	margin-top: 100px;
+	font-family: 'Baloo Da 2', sans-serif;
+	font-color: white;
+}
